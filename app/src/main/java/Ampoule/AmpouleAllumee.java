@@ -1,4 +1,7 @@
 package Ampoule;
 
-public class AmpouleAllumee extends State{
+public class AmpouleAllumee {
+
+    public void Allumer(Ampoule a){
+    }
 }
